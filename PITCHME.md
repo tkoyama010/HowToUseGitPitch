@@ -24,7 +24,7 @@
 ---
 PITCHME.md  
 というファイルを作成します。  
-<img src="assets/AddPitchme.png"/>  
+<a class="twitter-timeline" data-lang="ja" data-width="220" data-height="200" data-theme="dark" data-link-color="#19CF86" href="https://twitter.com/YoheiHarinezumi?ref_src=twsrc%5Etfw">Tweets by YoheiHarinezumi</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ---
 内容はマークダウンで記述します。
 ---
